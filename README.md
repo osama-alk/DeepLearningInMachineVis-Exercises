@@ -5,4 +5,4 @@ Python for Data Science 101
 |Excercise|Status|
 |-|-|
 |(a+b) Jupyter Notebook (and Python)|Done, Missing josh mtr number|
-|(c) NumPy|Not started|
+|(c) NumPy|Done, Missing josh mtr number|
