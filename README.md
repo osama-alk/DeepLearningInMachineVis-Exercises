@@ -2,7 +2,7 @@ This repository is for the purpose of collaborating the working on the exercises
 
 Python for Data Science 101
 ---
-|Excersie|Status|
+|Excercise|Status|
 |-|-|
-|a+b|Done, Missing josh mtr number|
-|c|Not started|
+|(a+b) Jupyter Notebook (and Python)|Done, Missing josh mtr number|
+|(c) NumPy|Not started|
