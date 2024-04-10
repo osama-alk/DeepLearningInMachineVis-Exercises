@@ -6,3 +6,4 @@ Python for Data Science 101
 |-|-|
 |(a+b) Jupyter Notebook (and Python)|Done|
 |(c) NumPy|Done|
+|Pandas|In progress|
