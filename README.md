@@ -6,4 +6,4 @@ Python for Data Science 101
 |-|-|
 |(a+b) Jupyter Notebook (and Python)|Done, submited|
 |(c) NumPy|Done, submited|
-|Pandas|Done, Not submited|
+|Pandas|Done, submited|
