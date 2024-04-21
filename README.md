@@ -7,5 +7,5 @@ Exercises
 |(a+b) Jupyter Notebook (and Python)|Done, submited|
 |(c) NumPy|Done, submited|
 |Pandas|Done, submited|
-|ML 101 - Part 1|Done, Not submited|
+|ML 101 - Part 1|Done, submited|
 |ML 101 - Part 2|In progress|
