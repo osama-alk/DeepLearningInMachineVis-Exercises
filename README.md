@@ -9,3 +9,5 @@ Exercises
 |Pandas|Done, submited|
 |ML 101 - Part 1|Done, submited|
 |ML 101 - Part 2|In progress|
+|ANN Intro|In progress|
+|ANN PyTorch|Not Started|
