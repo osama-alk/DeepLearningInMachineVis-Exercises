@@ -8,6 +8,6 @@ Exercises
 |(c) NumPy|Done, submited|
 |Pandas|Done, submited|
 |ML 101 - Part 1|Done, submited|
-|ML 101 - Part 2|In progress|
-|ANN Intro|In progress|
-|ANN PyTorch|Not Started|
+|ML 101 - Part 2|Done, submited|
+|ANN Intro|Done, submited|
+|ANN PyTorch|Done, submited|
