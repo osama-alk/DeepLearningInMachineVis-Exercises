@@ -11,3 +11,4 @@ Exercises
 |ML 101 - Part 2|Done, submited|
 |ANN Intro|Done, submited|
 |ANN PyTorch|Done, submited|
+|CV Intro|Done, submited|
