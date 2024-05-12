@@ -12,4 +12,4 @@ Exercises
 |ANN Intro|Done, submited|
 |ANN PyTorch|Done, submited|
 |CV Intro|Done, submited|
-|Introduction to Convolutional Neural Networks| |
+|Introduction to Convolutional Neural Networks|Done, submited|
