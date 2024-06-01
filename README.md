@@ -16,4 +16,4 @@ Exercises
 
 |Mini Project|Status|
 |Semantic Segmentation Intro|Done, Not submited|
-|Semantic Segmentation Mini Project|In Progress|
+|Semantic Segmentation Mini Project|Done, Not submited|
