@@ -13,3 +13,7 @@ Exercises
 |ANN PyTorch|Done, submited|
 |CV Intro|Done, submited|
 |Introduction to Convolutional Neural Networks|Done, submited|
+
+|Mini Project|Status|
+|Semantic Segmentation Intro|Done, Not submited|
+|Semantic Segmentation Mini Project|In Progress|
