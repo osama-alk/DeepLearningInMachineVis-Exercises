@@ -15,5 +15,5 @@ Exercises
 |Introduction to Convolutional Neural Networks|Done, submited|
 
 |Mini Project|Status|
-|Semantic Segmentation Intro|Done, Not submited|
-|Semantic Segmentation Mini Project|Done, Not submited|
+|Semantic Segmentation Intro|Done, submited|
+|Semantic Segmentation Mini Project|Done, submited|
