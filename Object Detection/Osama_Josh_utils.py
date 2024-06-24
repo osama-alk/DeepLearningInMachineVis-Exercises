@@ -5,6 +5,42 @@ import random
 import torchvision.transforms.functional as FT
 import datetime as dt
 
+#Task 1.5 Modified saving to include the number of the epoch saved at
+#Task 2.1 Saving the train_loss
+#Task 2.2 Saving the mAP
+def save_checkpoint_with_epcoh(model_path, epoch, model, optimizer, train_losses, mAP_score=None, best=False):
+    """
+    Save model checkpoint.
+
+    :param epoch: epoch number
+    :param model: model
+    :param optimizer: optimizer
+    :param train_losses: train_losses
+    """
+    
+    #Task 2.1 Storing the train_losses
+    #Only store mAP if validation is done
+    if mAP_score is not None:
+        state = {'epoch': epoch,
+             'model': model,
+             'optimizer': optimizer,
+             'train_losses' : train_losses,
+             'mAP_score' : mAP_score}
+    else:
+        state = {'epoch': epoch,
+             'model': model,
+             'optimizer': optimizer,
+             'train_losses' : train_losses}
+    #Task 1.5
+
+    if best:
+        filename = model_path + '/best/' + str(epoch) + '_' +'checkpoint_ssd300.pth.tar'
+    else:
+        filename = model_path + '/saved/' + str(epoch) + '_' +'checkpoint_ssd300.pth.tar'
+    torch.save(state, filename)
+    return filename
+
+
 def decimate(tensor, m):
     """
     Decimate a tensor by a factor 'm', i.e. downsample by keeping every 'm'th value.
