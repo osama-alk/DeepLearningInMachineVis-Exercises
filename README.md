@@ -17,3 +17,5 @@ Exercises
 |Mini Project|Status|
 |Semantic Segmentation Intro|Done, submited|
 |Semantic Segmentation Mini Project|Done, submited|
+|Object Detection Mini Project|Done, Submited|
+|Image Transformers Mini Project|In Progress|
